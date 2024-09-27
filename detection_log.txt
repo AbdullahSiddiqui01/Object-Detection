@@ -1,0 +1,31 @@
+2024-09-27 11:58:37.755842: Detected object - person
+2024-09-27 11:58:41.449572: Detected object - dog
+2024-09-27 11:58:45.181567: Detected object - person
+2024-09-27 11:58:48.925641: Detected object - dog
+2024-09-27 11:58:52.976682: Detected object - potted plant
+2024-09-27 11:58:56.579705: Detected object - person
+2024-09-27 11:58:59.818664: Detected object - cat
+2024-09-27 11:59:03.049715: Detected object - car
+2024-09-27 11:59:07.500406: Detected object - bird
+2024-09-27 11:59:12.286756: Detected object - cell phone
+2024-09-27 11:59:17.068843: Detected object - laptop
+2024-09-27 11:59:20.779806: Detected object - bottle
+2024-09-27 11:59:23.978481: Detected object - chair
+2024-09-27 11:59:27.366381: Detected object - bed
+2024-09-27 11:59:31.843730: Detected object - mouse
+2024-09-27 11:59:35.926775: Detected object - cell phone
+2024-09-27 11:59:43.972313: Detected object - bed
+2024-09-27 11:59:48.083657: Detected object - bed
+2024-09-27 11:59:51.627708: Detected object - laptop
+2024-09-27 11:59:55.093696: Detected object - chair
+2024-09-27 11:59:58.806648: Detected object - laptop
+2024-09-27 12:00:02.276531: Detected object - chair
+2024-09-27 12:00:05.933608: Detected object - bed
+2024-09-27 12:00:10.069625: Detected object - bed
+2024-09-27 12:00:14.389016: Detected object - bottle
+2024-09-27 12:00:19.033519: Detected object - cell phone
+2024-09-27 12:00:22.726951: Detected object - person
+2024-09-27 12:00:26.820379: Detected object - scissors
+2024-09-27 12:00:32.872944: Detected object - bird
+2024-09-27 12:00:36.753740: Detected object - person
+2024-09-27 12:00:42.376714: Detected object - person
